@@ -4,3 +4,12 @@ This repository contains training and analysis scripts for the paper,["Machine L
 
 This repository is a work in progress. Details about dependencies, installation and execution of the scripts will be added soon.
 
+## Components
+
+| Repository | Description |
+|------------|---------|
+| [GW-Whisper](https://github.com/chayanchatterjee/GW231123-ML-DetChar/tree/main/GW-Whisper) | Code for GW-Whisper based classification and search |
+| [ArchGEM| | Code repo for ArchGEM scattering glitch analysis |
+| [AWaRe](https://github.com/chayanchatterjee/GW231123-ML-DetChar/tree/main/AWaRe)|  | Code for waveform reconstruction tests using AWaRe|
+
+
