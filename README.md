@@ -10,6 +10,6 @@ This repository is a work in progress. Details about dependencies, installation 
 |------------|---------|
 | [GW-Whisper](https://github.com/chayanchatterjee/GW231123-ML-DetChar/tree/main/GW-Whisper) | Code for GW-Whisper based classification and search |
 | ArchGEM | Code repo for ArchGEM scattering glitch analysis |
-| [AWaRe](https://github.com/chayanchatterjee/GW231123-ML-DetChar/tree/main/AWaRe)|  | Code for waveform reconstruction tests using AWaRe|
+| [AWaRe](https://github.com/chayanchatterjee/GW231123-ML-DetChar/tree/main/AWaRe)| Code for waveform reconstruction tests using AWaRe|
 
 
